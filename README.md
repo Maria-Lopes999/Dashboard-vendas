@@ -1,15 +1,14 @@
-# Simulador de Investimentos em Fundos Imobiliários (FIIs)
+Dashboard de Vendas do Xbox - Excel
 
-## 📌 Sobre o Projeto
-Desenvolvi esta planilha de simulação de investimentos em FIIs durante as aulas de Excel na DIO. O objetivo principal foi criar uma ferramenta simples para entender como o patrimônio cresce ao longo do tempo e estimar a renda mensal de dividendos.
+Projeto prático desenvolvido como parte do bootcamp da DIO, focado em análise de dados, transformação e visualização utilizando o Microsoft Excel.
 
-## 🛠️ O que foi utilizado
-- **Fórmulas e Funções no Excel**: Para automatizar os cálculos de rendimento mensal e projeção de patrimônio.
-- **Formatação Condicional e Visual**: Organização para facilitar a leitura dos dados simulados.
+## 🚀 Sobre o Projeto
+O objetivo deste projeto foi transformar uma base de dados bruta de vendas em um Dashboard interativo e visualmente atraente do Xbox, facilitando a tomada de decisões estratégicas por meio de indicadores claros de desempenho.
 
-## 📂 Arquivos
-- `Projeto - Ferramenta de controle de investimento com Excel.xlsx`: Planilha com os cálculos do desafio.
-- `README.md`: Documentação explicativa.
+## 📊 Principais Funcionalidades
+- Visão geral do desempenho de vendas.
+- Gráficos dinâmicos para análise rápida de tendências.
+- Filtros interativos para segmentação por período, produto e região.
 
-## 💡 Minha Experiência
-Foi um excelente exercício prático para unir conceitos do mercado financeiro e de investimentos com a automação no Excel.
+   🛠️ Tecnologias Utilizadas
+- Microsoft Excel (Tabelas Dinâmicas, Gráficos e Fórmulas)
